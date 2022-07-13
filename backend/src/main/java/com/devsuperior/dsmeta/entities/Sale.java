@@ -59,11 +59,11 @@ public class Sale {
 	}
 
 	public Double getAmout() {
-		return amout;
+		return amount;
 	}
 
 	public void setAmout(Double amout) {
-		this.amout = amout;
+		this.amount = amout;
 	}
 
 	public LocalDate getDate() {
